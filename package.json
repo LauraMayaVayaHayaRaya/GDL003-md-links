@@ -1,4 +1,37 @@
 {
-  "name": "md-links",
-  "version": "0.1.0"
+    "name": "md-links",
+    "version": "0.1.0",
+    "description": "Busqueda de links dentro de un archivo .md",
+    "keywords": [
+        "links",
+        "md files"
+    ],
+    "engines": {
+        "node": ">= 0.1"
+    },
+    "main": "./index",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/LauraMayaVayaHayaRaya/GDL003-md-links.git"
+    },
+    "author": "Laura Maya",
+    "maintainers": [
+        "lauramaya86@gmail.com"
+    ],
+    "license": "ISC",
+    "bugs": {
+        "url": ""
+    },
+    "homepage": "https://github.com/LauraMayaVayaHayaRaya/GDL003-md-links",
+    "dependencies": {
+        "fetch": "^1.1.0",
+        "jsdom": "15.1.1",
+        "marked": "0.7.0"
+    }
 }

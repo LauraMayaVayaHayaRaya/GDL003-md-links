@@ -1,5 +1,19 @@
 # Markdown Links
 
+Con esta librería logra extraer los links de tus archivios Markdown, así como realizar la validación, total de links y cuales de ellos son aún validos y cuales están rotos.
+
+![ERROR GIF](https://media.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.gif)
+
+
+## Diagrama de Flujo
+
+![MARKDOWN LINKS]()
+
+
+
+
+
+
 ## Preámbulo
 
 [Markdown](https://es.wikipedia.org/wiki/Markdown) es un lenguaje de marcado
